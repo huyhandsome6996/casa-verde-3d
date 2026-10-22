@@ -4,6 +4,10 @@
 
 **Sản phẩm cá nhân render bằng tài nguyên mã nguồn mở từ [ArtCraft](https://github.com/storytold/artcraft) — "The IDE for artists"**
 
+[![Download](https://img.shields.io/badge/⬇️_Tải_xuống-CasaVerde--3D.zip-2ea44f?style=for-the-badge)](https://github.com/huyhandsome6996/casa-verde-3d/releases/latest/download/CasaVerde-3D.zip)
+
+> 💡 **Khách hàng chỉ cần bấm 1 link duy nhất:** [`https://github.com/huyhandsome6996/casa-verde-3d/releases/latest/download/CasaVerde-3D.zip`](https://github.com/huyhandsome6996/casa-verde-3d/releases/latest/download/CasaVerde-3D.zip) — luôn trỏ về bản mới nhất, không cần tài khoản GitHub.
+
 Một bản thiết kế biệt thự vườn 3D tương tác, dựng hoàn toàn trong trình duyệt bằng engine Three.js, sử dụng skybox cubemap, font chữ và ngôn ngữ thiết kế lấy từ dự án ArtCraft của Storytold.
 
 ![Ban ngày](preview/ngay.png)
@@ -11,6 +15,14 @@ Một bản thiết kế biệt thự vườn 3D tương tác, dựng hoàn toà
 </div>
 
 ---
+
+## 📥 Tải sản phẩm (cho khách hàng)
+
+| Cách tải | Link | Dành cho |
+| --- | --- | --- |
+| **Link trực tiếp (khuyến nghị)** | [CasaVerde-3D.zip](https://github.com/huyhandsome6996/casa-verde-3d/releases/latest/download/CasaVerde-3D.zip) | Khách chỉ cần bấm 1 lần, tải ZIP bản mới nhất |
+| Trang Releases | [github.com/huyhandsome6996/casa-verde-3d/releases](https://github.com/huyhandsome6996/casa-verde-3d/releases) | Xem toàn bộ các bản phát hành + ghi chú |
+| ZIP toàn bộ mã nguồn (nhánh main) | [Source code (main).zip](https://github.com/huyhandsome6996/casa-verde-3d/archive/refs/heads/main.zip) | Tải nhanh mã nguồn mới nhất |
 
 ## 📖 Bối cảnh
 
@@ -47,7 +59,7 @@ Dự án này được thực hiện như một bài thực hành: **"render m�
 
 ## 🚀 Cài đặt & chạy
 
-Yêu cầu: Node.js 20+ (hoặc Bun 1.2+).
+Sau khi [tải và giải nén **CasaVerde-3D.zip**](https://github.com/huyhandsome6996/casa-verde-3d/releases/latest/download/CasaVerde-3D.zip), yêu cầu Node.js 20+ (hoặc Bun 1.2+):
 
 ```bash
 # 1. Cài dependencies
